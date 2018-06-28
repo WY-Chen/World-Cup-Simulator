@@ -17,46 +17,88 @@ use the package glmnet, we find a sparse (because some country doesn't really ha
 Specifically, we fitted a penalized poisson regression. 
 
 ## Simulated results for games Jun.28 and on
+
 Japan   Poland 
+
      1      1 
+     
 Senegal Colombia 
+
      1      0 
+     
 England Belgium 
+
      2      1 
+     
 Tunisia Panama 
+
      1      1 
+     
 ++++++++++++++++++++ Round of 16 ++++++++++++++++++++
+
 Uruguay Portugal 
+
      0      2 
+     
 Spain   Russia 
+
      2      1 
+     
 France  Argentina 
+
      0      3 
+     
 Croatia Denmark (Extended time)
+
      1      0 
+     
 Brazil  Mexico 
+
      4      0 
+     
 Sweden  Switzerland (Extended time)
+
      3      1 
+     
 England Japan 
+
      1      0 
+     
 Senegal Belgium 
+
      1      2 
+     
 ++++++++++++++++++++ Quarter Final ++++++++++++++++++++
+
 Portugal Argentina 
+
      1       0 
+     
 Brazil   England 
+
      1       2 
+     
 Spain    Croatia 
+
      3       2 
+     
 Sweden   Belgium 
+
      1       0 
+     
 ++++++++++++++++++++ Semi Final ++++++++++++++++++++
+
 Portugal  England (Extra time + Penalty)
+
      4       6 
+     
 Spain     Sweden 
+
      1       0 
+     
 ++++++++++++++++++++ Final ++++++++++++++++++++
+
 England   Spain 
+
      2       1    (Extra time + Penalty)
 
